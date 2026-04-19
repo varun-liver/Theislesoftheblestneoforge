@@ -1,0 +1,5 @@
+{
+  "type": "forge:add_structures",
+  "biomes": "#minecraft:is_overworld",
+  "structures": "theislesoftheblest:portal_ruins"
+}

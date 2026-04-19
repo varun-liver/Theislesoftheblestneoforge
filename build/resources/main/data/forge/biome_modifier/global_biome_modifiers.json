@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "theislesoftheblest:add_portal_ruins",
+    "theislesoftheblest:add_sky_crystal",
+    "theislesoftheblest:add_sky_forest_vegetation",
+    "theislesoftheblest:add_large_sky_forest_trees",
+    "theislesoftheblest:replace_sky_realm_biomes",
+    "theislesoftheblest:replace_sky_realm_highlands",
+    "theislesoftheblest:add_infection_trees"
+  ]
+}

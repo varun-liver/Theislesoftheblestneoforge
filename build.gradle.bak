@@ -1,0 +1,51 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.gradle.userdev' version '7.0.170'
+}
+
+version = mod_version
+group = mod_group_id
+
+base {
+    archivesName = mod_id
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenLocal()
+    maven { url "https://cursemaven.com" }
+}
+
+dependencies {
+    implementation "net.neoforged:neoforge:${neo_version}"
+    implementation "curse.maven:terrablender-neoforge-940057:5290109"}
+
+runs {
+    configureEach {
+        systemProperty 'forge.logging.markers', 'REGISTRIES'
+        systemProperty 'forge.logging.console.level', 'debug'
+    }
+
+    client {
+    }
+
+    server {
+        programArgument '--nogui'
+    }
+
+    data {
+        programArguments.addAll(
+                '--mod', mod_id,
+                '--all',
+                '--output', file('src/generated/resources/').absolutePath,
+                '--existing', file('src/main/resources/').absolutePath
+        )
+    }
+}
+
+sourceSets.main.resources.srcDir 'src/generated/resources'

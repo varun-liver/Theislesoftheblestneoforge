@@ -1,0 +1,43 @@
+{
+  "name": "theislesoftheblest:the_dungeon/rooms",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "theislesoftheblest:the_dungeons/room1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "location": "theislesoftheblest:the_dungeons/room2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "location": "theislesoftheblest:the_dungeons/room3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "location": "theislesoftheblest:the_dungeons/room4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}
+

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "theislesoftheblest:large_sky_forest",
+  "features": [
+    "theislesoftheblest:large_sky_trees"
+  ],
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "theislesoftheblest:sky_realm",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "theislesoftheblest:infection_biome_source",
+      "base_biome": "theislesoftheblest:large_sky_forest",
+      "infection_biome": "theislesoftheblest:the_infection_lands"
+    },
+    "settings": "minecraft:overworld"
+  }
+}

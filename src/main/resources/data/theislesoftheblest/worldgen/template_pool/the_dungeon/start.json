@@ -1,0 +1,16 @@
+{
+  "name": "theislesoftheblest:the_dungeon/start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "location": "theislesoftheblest:the_dungeons/the_dungeons",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+      "weight": 1
+    }
+  ]
+}
+

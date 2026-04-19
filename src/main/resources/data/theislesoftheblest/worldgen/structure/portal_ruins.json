@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "theislesoftheblest:portal_ruins/start",
+  "size": 1,
+  "max_distance_from_center": 80,
+  "biomes": [
+    "theislesoftheblest:sky_forest",
+    "theislesoftheblest:large_sky_forest"
+  ],
+  "step": "surface_structures",
+  "start_height": {
+    "type": "minecraft:constant",
+    "value": {
+      "absolute": 0
+    }
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "use_expansion_hack": false,
+  "spawn_overrides": {}
+}

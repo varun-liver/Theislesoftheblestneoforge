@@ -1,0 +1,36 @@
+{
+  "has_precipitation": false,
+  "temperature": 1.0,
+  "temperature_modifier": "none",
+  "downfall": 0.0,
+  "effects": {
+    "sky_color": 16737610,
+    "fog_color": 2500139,
+    "water_color": 16737610,
+    "water_fog_color": 329011,
+    "grass_color": 8203051,
+    "foliage_color": 8203051,
+    "grass_color_modifier": "none"
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "theislesoftheblest:infection_guardians",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": []
+  },
+  "features": []
+}

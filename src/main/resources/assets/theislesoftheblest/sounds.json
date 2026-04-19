@@ -1,0 +1,87 @@
+{
+  "entity.the_infection.ambient": {
+    "sounds": [
+      "theislesoftheblest:entity/the_infection/ambient"
+    ]
+  },
+  "entity.the_infection.hurt": {
+    "sounds": [
+      "theislesoftheblest:entity/the_infection/hurt"
+    ]
+  },
+  "entity.the_infection.death": {
+    "sounds": [
+      "theislesoftheblest:entity/the_infection/death"
+    ]
+  },
+  "entity.the_guardian.whoosh": {
+    "sounds": [
+      "theislesoftheblest:entity/the_guardian/whoosh"
+    ]
+  },
+  "entity.the_guardian.hurt": {
+    "sounds": [
+      "theislesoftheblest:entity/the_guardian/hurt"
+    ]
+  },
+  "entity.the_guardian.death": {
+    "sounds": [
+      "theislesoftheblest:entity/the_guardian/death"
+    ]
+  },
+  "entity.the_cursed_ones.ambient": {
+    "sounds": [
+      "theislesoftheblest:entity/the_cursed_ones/ambient"
+    ]
+  },
+  "entity.the_cursed_ones.hurt": {
+    "sounds": [
+      "theislesoftheblest:entity/the_cursed_ones/hurt"
+    ]
+  },
+  "entity.infection_guardians.death": {
+    "sounds": [
+      "theislesoftheblest:entity/infection_guardians/death"
+    ]
+  },
+  "entity.infection_guardians.hurt": {
+    "sounds": [
+      "theislesoftheblest:entity/infection_guardians/hurt"
+    ]
+  },
+  "entity.infection_guardians.ambient": {
+    "sounds": [
+      "theislesoftheblest:entity/infection_guardians/ambient"
+    ]
+  },
+  "entity.the_cursed_ones.death": {
+    "sounds": [
+      "theislesoftheblest:entity/the_cursed_ones/death"
+    ]
+  },
+  "block.cloud.break": {
+    "sounds": [
+      "theislesoftheblest:block/cloud/break"
+    ]
+  },
+  "block.cloud.step": {
+    "sounds": [
+      "theislesoftheblest:block/cloud/step"
+    ]
+  },
+  "block.cloud.place": {
+    "sounds": [
+      "theislesoftheblest:block/cloud/place"
+    ]
+  },
+  "block.cloud.hit": {
+    "sounds": [
+      "theislesoftheblest:block/cloud/hit"
+    ]
+  },
+  "block.cloud.fall": {
+    "sounds": [
+      "theislesoftheblest:block/cloud/fall"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "theislesoftheblest:block/infection_grass_bottom",
+    "top": "theislesoftheblest:block/infection_grass_top",
+    "side": "theislesoftheblest:block/infection_grass_side"
+  }
+}

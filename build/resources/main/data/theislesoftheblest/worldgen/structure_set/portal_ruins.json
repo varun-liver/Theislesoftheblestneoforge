@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 8,
+    "salt": 9023145
+  },
+  "structures": [
+    {
+      "structure": "theislesoftheblest:portal_ruins",
+      "weight": 1
+    }
+  ]
+}
